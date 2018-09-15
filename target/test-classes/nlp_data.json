@@ -1,0 +1,70 @@
+{
+    participants: [{
+        id: "10",
+        name: "Augusto Mauch",
+        age: 34,
+        email: "aumago84@gmail.com",
+        city: "Huarte",
+        activities: ["Introducción a Java 8"]
+    }, {
+        id: "20",
+        name: "Alcestes",
+        age: 12,
+        email: "alcestes@gmail.com",
+        city: "Pamplona",
+        activities: []
+    }, {
+        id: "30",
+        name: "Paul Sheldon",
+        age: 56,
+        city: "Pamplona",
+        activities: []
+    }, {
+        id: "40",
+        name: "Kaladin Stormblessed",
+        age: 22,
+        city: "Alethi",
+        activities: ["¿Dónde están mis Bitcoins?"]
+    }],
+    activities: [{
+        host: "Augusto Mauch",
+        title: "Introducción a Java 8",
+        duration: 120,
+        difficulty: "medium"
+    },{
+        host: "Andriy Brukhovetskyy",
+        title: "Herramientas open source en la lucha contra el malware",
+        duration: 45,
+        difficulty: "easy"
+    },{
+        host: "Pablo Alonso Lorente",
+        title: "Welcome to the Circus!",
+        duration: 45,
+        difficulty: "medium"
+    },{
+        host: "Mikel Izal",
+        title: "¿Dónde están mis Bitcoins?",
+        duration: 60,
+        difficulty: "hard"
+    },{
+        host: "Chema Alonso",
+        title: "Tus datos mueven el mundo... y tú sin saberlo",
+        duration: 45,
+        difficulty: "medium"
+    },{
+        host: "Iñaki Ayucar",
+        title: "Desarrollo de videojuegos",
+        duration: 240,
+        difficulty: "hard"
+    },{
+        host: "Jose Javier Ripa",
+        title: "Monitorización en casa y en la empresa",
+        duration: 105,
+        difficulty: "hard"
+    },{
+        host: "Alvaro Buldain",
+        title: "Un dron, Navarbot y hazlo",
+        duration: 120,
+        difficulty: "hard"
+    }]
+}
